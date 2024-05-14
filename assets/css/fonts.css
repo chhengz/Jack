@@ -1,0 +1,75 @@
+
+/* Kh BL LazySmooth
+
+@font-face {
+    font-family: ;
+    src:
+        local(""),
+        url(''),
+        url('') format("");
+} 
+
+*/
+
+/* Khmer Font */
+@font-face {
+    font-family: Kh BL LazySmooth;
+    src:
+        local("Kh BL LazySmooth"),
+        url('../fonts/Kh_BL_LazySmooth.ttf'),
+        url('../fonts/Kh_BL_LazySmooth.ttf') format("ttf");
+} 
+
+/* English Font */
+
+
+@font-face {
+    font-family: GameBattles;
+    src:
+        local("GameBattles"), 
+        url('../fonts/GameBattlesRegular-RjXo.ttf'),
+        url('../fonts/GameBattlesRegular-RjXo.ttf') format("ttf");
+}
+
+
+
+@font-face {
+    font-family: MonsterGame;
+    src:
+        local("MonsterGame"),
+        url('../fonts/MonsterGame-EjB9.ttf'),
+        url('../fonts/MonsterGame-EjB9.ttf') format("ttf");
+}
+
+
+@font-face {
+    font-family: MargareteDemoRegular;
+    src:
+        local("MargareteDemoRegular"),
+        url('../fonts/MargareteDemoRegular.ttf'),
+        url('../fonts/MargareteDemoRegular.ttf') format("ttf");
+} 
+
+@font-face {
+    font-family: SamuraiBlast-8MnyD;
+    src:
+        local("SamuraiBlast-8MnyD"),
+        url('../fonts/SamuraiBlast-8MnyD.otf'),
+        url('../fonts/SamuraiBlast-8MnyD.otf') format("otf");
+} 
+
+@font-face {
+    font-family: SamuraiBlast-YznGj;
+    src:
+        local("SamuraiBlast-YznGj"),
+        url('../fonts/SamuraiBlast-YznGj.ttf'),
+        url('../fonts/SamuraiBlast-YznGj.ttf') format("ttf");
+} 
+
+@font-face {
+    font-family: StandupsDemoRegular;
+    src:
+        local("StandupsDemoRegular"),
+        url('../fonts/StandupsDemoRegular.ttf'),
+        url('../fonts/StandupsDemoRegular.ttf') format("ttf");
+} 
