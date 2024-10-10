@@ -1,6 +1,10 @@
-# Jack
-Jack Web
+# PERSONAL WEBSITE
 
-https://sokchheng.site/
+Developer: @chhengz
 
-[DEMO ON VERCEL](jack-zo.vercel.app/)
+Release Date: 10/10/2024 
+
+# WEBSITE LINK
+Website Link: https://sokchheng.site/
+
+DEMO ON VERCEL: jack-zo.vercel.app/
