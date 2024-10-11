@@ -7,4 +7,4 @@ Release Date: 10/10/2024
 # WEBSITE LINK
 Website Link: https://sokchheng.site/
 
-DEMO ON VERCEL: jack-zo.vercel.app/
+DEMO ON VERCEL: https://jack-zo.vercel.app/
