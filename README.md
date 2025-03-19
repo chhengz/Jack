@@ -2,7 +2,7 @@
 
 Developer: @chhengz
 
-Release Date: 10/10/2024 
+Release Date: 10/10/2024 - Present
 
 # WEBSITE LINK
 Website Link: https://sokchheng.site/
